@@ -6,8 +6,11 @@ Code from the server status scraper credit to isaychris which is used in his con
 https://github.com/isaychris/osrs-world-pinger
 
 In order to run you must install a few modules:
+
 `pip install PyQt5
+
 pip install requests
+
 pip install beautifulsoup4`
 
 

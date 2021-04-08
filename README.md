@@ -12,3 +12,5 @@ pip install beautifulsoup4
 
 Servers on the left will show from lowest ping to highest from top to bottom.
 The Table to the right is a bit outdated and shows some worlds that no longer exist, and is missing some. (worlds change often)
+
+![Capture](https://user-images.githubusercontent.com/3312076/114008559-5cefbe80-9830-11eb-983b-72ae2ae48182.PNG)
